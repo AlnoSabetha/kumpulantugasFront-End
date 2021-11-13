@@ -345,59 +345,6 @@
         }
       },
       {
-        "HashCode": -1399631821,
-        "Kind": "Components.Component",
-        "Name": "Fe_Blazor.Shared.SurveyPrompt",
-        "AssemblyName": "Fe_Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Fe_Blazor.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1767172682,
-        "Kind": "Components.Component",
-        "Name": "Fe_Blazor.Shared.SurveyPrompt",
-        "AssemblyName": "Fe_Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Fe_Blazor.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Fe_Blazor.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1412330647,
         "Kind": "Components.Component",
         "Name": "Fe_Blazor.Shared.MainLayout",
@@ -490,6 +437,59 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Fe_Blazor.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1399631821,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Shared.SurveyPrompt",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1767172682,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Shared.SurveyPrompt",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Fe_Blazor.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
