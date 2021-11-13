@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Blazor\\Fe_Blazor\\Fe_Blazor.csproj",
+  "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -312,6 +312,39 @@
         }
       },
       {
+        "HashCode": 332670683,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.App",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.App"
+        }
+      },
+      {
+        "HashCode": -1907487817,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.App",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Fe_Blazor.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1399631821,
         "Kind": "Components.Component",
         "Name": "Fe_Blazor.Shared.SurveyPrompt",
@@ -457,6 +490,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Fe_Blazor.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1312376375,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Shared.NavMenu",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1451310186,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Shared.NavMenu",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Fe_Blazor.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13148,68 +13214,68 @@
   "RootNamespace": "Fe_Blazor",
   "Documents": [
     {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\DepartmentPage.razor",
-      "TargetPath": "Pages\\DepartmentPage.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\DetailDepartment.razor",
-      "TargetPath": "Pages\\DetailDepartment.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\App.razor",
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\EmployeePage.razor",
-      "TargetPath": "Pages\\EmployeePage.razor",
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\_Imports.razor",
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\EmployeeTugasPage.razor",
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\DepartmentPage.razor",
+      "TargetPath": "Pages\\DepartmentPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\DetailDepartment.razor",
+      "TargetPath": "Pages\\DetailDepartment.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\EmployeeTugasPage.razor",
       "TargetPath": "Pages\\EmployeeTugasPage.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Blazor\\Fe_Blazor\\Pages\\DetailEmployee.razor",
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\EmployeePage.razor",
+      "TargetPath": "Pages\\EmployeePage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\DetailEmployee.razor",
       "TargetPath": "Pages\\DetailEmployee.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     }
   ],
