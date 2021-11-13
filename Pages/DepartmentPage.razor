@@ -1,0 +1,27 @@
+@page "/departmentpage"
+<link rel="stylesheet" href="css/style.css">
+
+<h3>Daftar Department</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Department Id</th>
+            <th>Department Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dpt in Departments)
+        {
+            <tr>
+                <td>@dpt.DepartmentId</td>
+                <td>@dpt.DepartmentName</td>
+                <td><a href= "@($"Departmentdetail/{dpt.DepartmentId}")" class="btn btn-info">details</a>
+                <a href="#" class="btn btn-warning">Edit</a>
+            <a href="#" class="btn btn-danger">Delete</a></td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
