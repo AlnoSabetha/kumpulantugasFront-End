@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj": {}
+    "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj": {}
   },
   "projects": {
-    "D:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj": {
+    "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj",
+        "projectUniqueName": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj",
         "projectName": "Fe_Blazor",
-        "projectPath": "D:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj",
+        "projectPath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Fe_Blazor.csproj",
         "packagesPath": "C:\\Users\\chame\\.nuget\\packages\\",
-        "outputPath": "D:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\obj\\",
+        "outputPath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chame\\AppData\\Roaming\\NuGet\\NuGet.Config"

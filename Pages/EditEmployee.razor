@@ -1,0 +1,52 @@
+@page "/editemployee/{id}";
+
+<EditForm Model="@Employee">
+    <h3>Edit Employee</h3>
+    <hr/>
+    <div class="form-group-row">
+        <label for="firstname">
+            Firstname
+        </label>
+        <div class="col-sm-10">
+            <InputText id="firstname" class="form-control" placeholder="firstname" 
+            @bind-Value="Employee.Firstname" />
+        </div>
+    </div>
+    <div class="form-group-row">
+        <label for="lastname">
+            Lastname
+        </label>
+        <div class="col-sm-10">
+            <InputText id="lastname" class="form-control" placeholder="lastname" 
+            @bind-Value="Employee.Lastname" />
+        </div>
+    </div>
+    <div class="form-group-row">
+        <label for="email">
+            Email
+        </label>
+        <div class="col-sm-10">
+            <InputText id="email" class="form-control" placeholder="email@gmail.com" 
+            @bind-Value="Employee.Email" />
+        </div>
+    </div>
+    <div class="form-group-low">
+        <InputSelect id="department" @bind-Value="Employee.DepartmentId" class="form-control">
+            @foreach (var dept in Departments)
+            {
+                <option value="@dept.DepartmentId">@dept.DepartmentName</option>   
+            }
+        </InputSelect>
+    </div>
+    <div class="form-group-row">
+        <label for="Departmnet" class="col-sm-2 col-form-label">Gender</label>
+        <div class="col-sm-10">
+            <InputSelect @bind-Value="Employee.Gender" class="form-control">
+                @foreach (var gender in Enum.GetValues(typeof(BlazorGender)))
+                {
+                    <option value="@gender">@gender</option>
+                }
+            </InputSelect>
+        </div>
+    </div>
+</EditForm>
