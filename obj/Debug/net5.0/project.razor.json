@@ -147,6 +147,59 @@
         }
       },
       {
+        "HashCode": -538211609,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Pages.EditEmployee",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Pages.EditEmployee"
+        }
+      },
+      {
+        "HashCode": -1967912585,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Pages.EditEmployee",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Fe_Blazor.Pages.EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Pages.EditEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1198844059,
         "Kind": "Components.Component",
         "Name": "Fe_Blazor.Pages.EmployeePage",
@@ -312,55 +365,35 @@
         }
       },
       {
-        "HashCode": -538211609,
+        "HashCode": -2135191089,
         "Kind": "Components.Component",
-        "Name": "Fe_Blazor.Pages.EditEmployee",
+        "Name": "Fe_Blazor.Pages.AddEmployee",
         "AssemblyName": "Fe_Blazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EditEmployee"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "AddEmployee"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Fe_Blazor.Pages.EditEmployee"
+          "Common.TypeName": "Fe_Blazor.Pages.AddEmployee"
         }
       },
       {
-        "HashCode": -1967912585,
+        "HashCode": -570870117,
         "Kind": "Components.Component",
-        "Name": "Fe_Blazor.Pages.EditEmployee",
+        "Name": "Fe_Blazor.Pages.AddEmployee",
         "AssemblyName": "Fe_Blazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Fe_Blazor.Pages.EditEmployee"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "Fe_Blazor.Pages.AddEmployee"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Fe_Blazor.Pages.EditEmployee",
+          "Common.TypeName": "Fe_Blazor.Pages.AddEmployee",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13334,6 +13367,11 @@
     {
       "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Front-end (matkul)\\Fe_Blazor\\Fe_Blazor\\Pages\\AddEmployee.razor",
+      "TargetPath": "Pages\\AddEmployee.razor",
       "FileKind": "component"
     }
   ],
