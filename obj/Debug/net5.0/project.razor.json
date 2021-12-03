@@ -266,6 +266,39 @@
         }
       },
       {
+        "HashCode": -2135191089,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Pages.AddEmployee",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Pages.AddEmployee"
+        }
+      },
+      {
+        "HashCode": -570870117,
+        "Kind": "Components.Component",
+        "Name": "Fe_Blazor.Pages.AddEmployee",
+        "AssemblyName": "Fe_Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Fe_Blazor.Pages.AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Fe_Blazor.Pages.AddEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 24952540,
         "Kind": "Components.Component",
         "Name": "Fe_Blazor.Pages.Counter",
@@ -361,39 +394,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Fe_Blazor.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2135191089,
-        "Kind": "Components.Component",
-        "Name": "Fe_Blazor.Pages.AddEmployee",
-        "AssemblyName": "Fe_Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AddEmployee"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Fe_Blazor.Pages.AddEmployee"
-        }
-      },
-      {
-        "HashCode": -570870117,
-        "Kind": "Components.Component",
-        "Name": "Fe_Blazor.Pages.AddEmployee",
-        "AssemblyName": "Fe_Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Fe_Blazor.Pages.AddEmployee"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Fe_Blazor.Pages.AddEmployee",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

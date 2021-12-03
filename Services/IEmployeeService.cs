@@ -10,5 +10,7 @@ namespace Fe_Blazor.Services
     {
          Task<IEnumerable<Employee>> GetAll();
          Task<Employee> GetById(int id);
+         Task<Employee> Add(Employee employee);
     }
+    
 }
